@@ -1,26 +1,8 @@
-// Identification
-//
 // Title:         Huffman Encoder
 // Programmer:    Trent Tolley
-// ID Number:     231-45-6679
 // Compiler:      Visual C++ Version 6.0
 // Platform:      Pentium III 700 Laptop / Windows ME
 // Last Modified: Oct 10, 2001
-//-------------------------------------------------------------------------------------------
-//  On my honor:
-//  
-//  - I have not used C++ language code obtained from another student, or any other unauthorized source,
-//    either modified or unmodified.
-//
-//	- All C++ language code and documentation used in my program is either my original work, or was derived,
-//	  by me, from the source code published in the textbook for this course.
-//
-//  - I have not discussed coding details about this project with anyone other than my instructor,
-//	  ACM/UPE tutors or the GTAs assigned to this course. I understand that I may discuss the
-//    concepts of this program with other students, and that another student may help me debug
-//	  my program so long as neither of us writes anything during the discussion or modifies any
-//	  computer file during the discussion. I have violated neither the spirit nor letter of this
-//	  restriction.
 //-------------------------------------------------------------------------------------------
 //	This program is designed to encode a given input file using a Huffman coding tree.
 //-------------------------------------------------------------------------------------------
