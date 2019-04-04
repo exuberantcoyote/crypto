@@ -1,5 +1,4 @@
 // Title:         Huffman Encoder
-// Programmer:    Trent Tolley
 // Compiler:      Visual C++ Version 6.0
 // Platform:      Pentium III 700 Laptop / Windows ME
 // Last Modified: Oct 10, 2001
