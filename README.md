@@ -1,6 +1,8 @@
 To decode the encrypted image...
 
-download huffdecode.exe
+download huffdecode.exe from this repository
+
+place the two files (huffdecode.exe & secretimage.jpg) in the same directory
 
 run the executable in a dos terminal (or emulator) by typing:
 
