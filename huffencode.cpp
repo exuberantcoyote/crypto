@@ -1,7 +1,6 @@
 // Title:         Huffman Encoder
 // Compiler:      Visual C++ Version 6.0
-// Platform:      Pentium III 700 Laptop / Windows ME
-// Last Modified: Oct 10, 2001
+// Platform:      Windows ME
 //-------------------------------------------------------------------------------------------
 //	This program is designed to encode a given input file using a Huffman coding tree.
 //-------------------------------------------------------------------------------------------
